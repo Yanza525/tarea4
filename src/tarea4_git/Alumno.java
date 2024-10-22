@@ -1,7 +1,8 @@
 package tarea4_git;
 import java.io.Serializable;
 import java.time.LocalDate;
-public class Alumno {
+/*Implementamos Serializazble*/
+public class Alumno implements Serializable{
 	/**
 	 * 
 	 */
